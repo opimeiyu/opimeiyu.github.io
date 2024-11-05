@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://opimeiyu.github.io/Dpx/sitemap_index.txt
+Sitemap: https://opimeiyu.github.io/TPm/sitemap_index.txt
+Sitemap: https://opimeiyu.github.io/Tok/sitemap_index.txt
+Sitemap: https://opimeiyu.github.io/wkK/sitemap_index.txt
